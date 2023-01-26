@@ -5,7 +5,8 @@
 Sou formada em Administração de Empresas, trabalhei por muitos anos na área administrativa e saúde suplementar, me identifiquei com a área de Q.A. pois já realizava atividades relacionadas com área de testes e a partir disso me dediquei a fazer a transição de carreira. Realizei diversos cursos ligados a área tecnologia com foco em Qualidade e Teste de Software, fui aluna do Projeto Qa.Coders que foi crucial para minha mudança de carreira.
 
 
-Atualmente continuo me dedicando aos estudos. Sou memboda comunidade Cantinho das mulheres Q.As :lady_beetle:	local onde trocamos muitas dicas, informações e ensinamentos. 
+Atualmente continuo me dedicando aos estudos. 
+Sou membro da comunidade "Cantinho das mulheres Q.As :lady_beetle: ",	ambiente onde são feitas trocas de informações, muitas dicas sobre a área, apoio de forma geral as participantes.
 
 <br>
 
